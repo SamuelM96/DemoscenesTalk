@@ -2,6 +2,7 @@
 # General
 - Pouet: https://www.pouet.net/
 - Find demoparties: https://www.demoparty.net/
+- Crinkler: https://github.com/runestubbe/Crinkler
 
 ## Graphics programming
 - LearnOpenGL: https://learnopengl.com 
@@ -36,9 +37,6 @@
 - SizeCoding: http://www.sizecoding.org/wiki/Main_Page
 - GLSL Noise functions: https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
 - Enhanced Sphere Tracing: https://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf
-
-## Demoscene tools
-Crinkler: https://github.com/runestubbe/Crinkler
 
 ## Raytracing
 - Raytracing in One Weekend series: https://raytracing.github.io/
