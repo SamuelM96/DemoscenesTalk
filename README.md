@@ -44,3 +44,5 @@ Crinkler: https://github.com/runestubbe/Crinkler
 - Raytracing in One Weekend series: https://raytracing.github.io/
 - PBR Book: http://www.pbr-book.org/
 - Path Tracing 3D Fractals: http://blog.hvidtfeldts.net/index.php/2015/01/path-tracing-3d-fractals/
+- Writing a Raytracer in Rust: https://bheisler.github.io/post/writing-raytracer-in-rust-part-1/
+- Awesome Ray Tracing: https://github.com/dannyfritz/awesome-ray-tracing
