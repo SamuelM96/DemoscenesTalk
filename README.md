@@ -3,6 +3,7 @@
 - Pouet: https://www.pouet.net/
 - Find demoparties: https://www.demoparty.net/
 - Crinkler: https://github.com/runestubbe/Crinkler
+- ferrisstreamsstuff: https://www.youtube.com/channel/UC4mpLlHn0FOekNg05yCnkzQ https://www.twitch.tv/ferrisstreamsstuff/
 
 ## Graphics programming
 - LearnOpenGL: https://learnopengl.com 
